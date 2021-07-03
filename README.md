@@ -6,5 +6,5 @@ I am a nascent Software Engineer originally from New York City who is interested
 - 💬 Ask me about Linux!
 - I have basic programming experience in Python, R, C, Java, SQL and bash. 
 - 👯 Always ready to collaborate with anyone. 
-- GPG FINGERPRINT: BF84 04A7 C722 526E 23B6  CC6E FC16 C48B B4FC F1C5
+- GPG FINGERPRINT: BA51 7E6C 000A 94C9 38D1  C59A CFA9 5500 B751 F766
 
