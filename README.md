@@ -8,3 +8,4 @@ I am a nascent Software Engineer originally from New York City who is interested
 - 👯 Always ready to collaborate with anyone. 
 - GPG FINGERPRINT: BA51 7E6C 000A 94C9 38D1  C59A CFA9 5500 B751 F766
 
+![](zakkraehling_website_qr_code.png)
